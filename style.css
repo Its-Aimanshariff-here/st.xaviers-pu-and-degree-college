@@ -55,7 +55,7 @@ body::after{
 .header{
     min-height:90vh;
     width:90%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(http://www.stxavierscollege.in/wp-content/uploads/2020/11/infra1.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./pictures/clg.jpg);
     background-position:center;
     background-size: cover;
     position: relative;
